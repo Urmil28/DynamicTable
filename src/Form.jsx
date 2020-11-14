@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Filter from './Filter.jsx'
 import './index.css';
 import trash from './delete.svg';
